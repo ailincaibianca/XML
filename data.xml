@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "data.dtd">
+<root>
+
+
+
+
+
+<date><id>1</id><name>Blue Mask</name><image>Images/blue.jpg</image><edit>edit.php?id=1</edit><delete>delete.php?id=1</delete><confirm>return confirm("Are you sure you want to delete this item?")</confirm><back>index.php</back></date><date><id>3</id><name>Black Mask</name><image>Images/black.jpg</image><edit>edit.php?id=3</edit><delete>delete.php?id=3</delete><confirm>return confirm("Are you sure you want to delete this item?")</confirm><back>index.php</back></date><date><id>60</id><name>Navy Mask</name><image>Images/navy.jpg</image><edit>edit.php?id=60</edit><delete>delete.php?id=60</delete><confirm>return confirm("Are you sure you want to delete this item?")</confirm><back>index.php</back></date></root>

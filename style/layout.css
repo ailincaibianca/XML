@@ -1,0 +1,9 @@
+.form-container{
+    position: relative;
+    margin-top: 10%;
+    margin-left: 30%;
+    display:grid;
+    align-items: center;
+    
+}
+

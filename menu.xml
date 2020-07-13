@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu title="Menu">
+    <menuitem>
+        <link>login.php</link>
+        <title>Log in</title>
+    </menuitem>
+    <menuitem>
+        <link>register.php</link>
+        <title>Register</title>
+    </menuitem>
+</menu>

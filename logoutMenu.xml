@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu title="Menu">
+    <menuitem>
+        <link>index.php</link>
+        <title>Log out</title>
+    </menuitem>
+</menu>
